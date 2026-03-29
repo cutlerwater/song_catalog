@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Time",
+    "performers": "Pink Floyd",
+    "album": "Dark Side of the Moon",
+    "year": "1973",
+    "singer": "David Gilmour",
+    "length": "6:53",
+    "image": "/uploads/1774646365419-DarkSide.jpg"
+  },
+  {
+    "title": "In the Flesh",
+    "performers": "Pink Floyd",
+    "album": "The Wall",
+    "year": "1979",
+    "singer": "Roger Waters",
+    "image": "/uploads/1774646463183-The Wall.jpg"
+  },
+  {
+    "title": "Eclipse",
+    "performers": "Pink Floyd",
+    "album": "Dark Side of the Moon",
+    "year": "1973",
+    "singer": "Roger Waters",
+    "image": "/uploads/1774646495225-DarkSide.jpg"
+  },
+  {
+    "title": "Here comes the sun",
+    "performers": "The Beatles",
+    "album": "Abbey Road",
+    "year": "1969",
+    "singer": "George Harrison",
+    "image": "/uploads/1774646547866-AbbeyRd.jpg"
+  },
+  {
+    "title": "Echoes",
+    "performers": "Pink Floyd",
+    "album": "Meddle",
+    "year": "1971",
+    "singer": "Instrumental",
+    "image": "/uploads/1774647295887-Echos.jpg"
+  },
+  {
+    "title": "Speak to Me",
+    "performers": "Pink Floyd",
+    "album": "Dark Side of the Moon",
+    "year": "1973",
+    "singer": "",
+    "writer": "",
+    "length": "1:05",
+    "image": "/uploads/1774752046762-DarkSide.jpg",
+    "singer(s)": "Instrumental",
+    "writer(s)": "Nick Mason"
+  },
+  {
+    "title": "Desperado",
+    "performers": "The Eagles",
+    "album": "Desperado",
+    "year": "1973",
+    "singer": "",
+    "writer": "",
+    "length": "3:30",
+    "image": "/uploads/1774752109169-Desperado.jpg",
+    "singer(s)": "Don Henley",
+    "writer(s)": "Don Henley and Glenn Frey"
+  }
+]
